@@ -6,6 +6,7 @@ namespace DemoBranches {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello from this side");
             Console.WriteLine("Another day, another line");
+            Console.WriteLine("Wow");
         }
     }
 }
